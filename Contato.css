@@ -1,0 +1,36 @@
+body{
+	background-image:url("Encima Twitch.png");
+    background-repeat:no-repeat ; 
+	background-position: left top;
+	background-color:Black;
+     }
+	 
+	 u {
+		font-family:"Arial";
+	    font-size:25pt;
+	    color:White;
+	 }
+button {
+	    height:35px;
+		}
+		
+
+#dot1 {
+	font-family:"Arial";
+	font-size:35pt;
+	color:Purple;
+     }
+	 
+.formulário {
+	font-family:"Arial";
+	font-size:20pt;
+	color:White;
+}
+
+#Enviar {
+	font-family:"Arial";
+	font-size:20pt;
+	color:Blue;
+}
+
+
